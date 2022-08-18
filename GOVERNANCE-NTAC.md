@@ -26,7 +26,7 @@ NTAC observers may be admitted to any meeting at the discretion of the NTAC chai
 
 For most decisions, the NTAC operates by [lazy consensus](https://community.apache.org/committers/lazyConsensus.html). The following decisions are made by agreement of the co-chairs:
 
-* Appointment of the NTAC voting member on the PGB [(according to Open Projects Rule 5.1)]().
+* Appointment of the NTAC voting member on the PGB [(according to Open Projects Rule 5.1)](https://www.oasis-open.org/policies-guidelines/open-projects-process/#project-governing-board-and-sponsors-composition).
 
 The NTAC may, at its own discretion, delegate authority on minor technical decisions to Maintainers in the community, including but not limited to:
 
